@@ -14,9 +14,9 @@
 - The rand() function generates a number
 - The srand(time(0)) function, generates numbers every second and stores them in rand()
 
-✅ The computer guesses the number:
+✅ The computer think of a number:
 - The same mechanism as when guessing a number.
-- Simulation of your "guessing"
+- Simulation of your "thinking"
 
 ✅ After each action
 - Return the user to the main menu and ask them again what they want to do.
